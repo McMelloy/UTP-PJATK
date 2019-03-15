@@ -1,0 +1,12 @@
+Maximum points for homework is 20 points.
+
+ftp location P:\FTP(Public)\adek\
+homework upload folder P:\FTP(Public)\adek\studenci - please use drag and drop technique
+
+Home work description
+Your SXXXX-WSI-INTERNET-WORD-kolokwium document should look like WSI-INTERNET-WORD-EXAMPLE.
+Please name your file same as parent, change only "SXXXX" on your student number for example s1234-WSI-INTERNET-WORD-kolokwium
+
+
+If you have any question
+do not hesitate to ask mailto: adek@pjwstk.edu.pl

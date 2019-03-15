@@ -1,0 +1,8 @@
+﻿  Class1.cpp
+c:\uni\c++\class1\class1\class1.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\uni\c++\class1\class1\class1.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\uni\c++\class1\class1\class1.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\uni\c++\class1\class1\class1.cpp(46): warning C4101: 'a': unreferenced local variable
+c:\uni\c++\class1\class1\class1.cpp(46): warning C4101: 'b': unreferenced local variable
+c:\uni\c++\class1\class1\class1.cpp(46): warning C4101: 'c': unreferenced local variable
+  Class1.vcxproj -> C:\Uni\C++\Class1\Debug\Class1.exe
