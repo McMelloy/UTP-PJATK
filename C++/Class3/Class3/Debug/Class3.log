@@ -1,0 +1,3 @@
+﻿  Class3.cpp
+c:\uni\pjatk\c++\class3\class3\class3.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Class3.vcxproj -> C:\Uni\PJATK\C++\Class3\Debug\Class3.exe

@@ -37,8 +37,6 @@ public class Main {
             }
         };
         System.out.println(FunDD.xminim(dd, 0, 2));
-        System.out.println(FunDD.xminim( x -> {
-                return x * x * (x - 2);
-        }, 0, 2));
+        System.out.println(FunDD.xminim( x -> ( x * x * (x - 2)), 0, 2));
     }
 }
