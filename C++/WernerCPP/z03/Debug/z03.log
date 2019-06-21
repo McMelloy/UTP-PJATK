@@ -1,0 +1,4 @@
+﻿  z03.cpp
+c:\uni\pjatk\c++\wernercpp\z03\z03.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\uni\pjatk\c++\wernercpp\z03\z03.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  z03.vcxproj -> C:\Uni\PJATK\C++\WernerCPP\Debug\z03.exe

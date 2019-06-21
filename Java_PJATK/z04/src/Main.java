@@ -47,7 +47,7 @@ class HailstoneIterator implements Iterator<Integer>{
     int el;
 
     HailstoneIterator(int el){
-        this.el = el;
+        this.el = 2*el;
     }
 
     @Override
@@ -115,6 +115,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Scanner in = new Scanner(System.in);
+        /*
         ArrayList<Person> society = new ArrayList<>();
         String input, name;
         int year=0;
@@ -147,9 +148,9 @@ public class Main {
         System.out.println(findInColl(soc2, name, year));
         TreeSet<Person> soc3 = new TreeSet<>(society);
         System.out.println(findInColl(soc3, name, year));
-
+        */
         /////////////////////////////Task 2
-        /*int ini = 10, count = 0, maxel = 0;
+        int ini = 10, count = -1, maxel = 0;
         Hailstone hailstone = new Hailstone(ini);
         for (int h : hailstone) {
             if (h > maxel)
@@ -158,7 +159,7 @@ public class Main {
             //System.out.println(h);
         }
         System.out.println(ini + " " + count + " " + maxel);
-        */
+
         /////////////////////////////Task 3
         /*
         for (int turn = 0; turn < 10; ++turn) {

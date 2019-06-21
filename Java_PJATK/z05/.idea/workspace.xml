@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="849bd0e3-0d27-45f3-9744-692c39284d8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/.vs/Class2/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/.vs/Class2/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/.vs/Class2/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/.vs/Class2/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Class2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Class2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.pch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/Class2.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/Class2.lastbuildstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/Class2.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/pch.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/vc141.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Class2/Debug/vc141.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class2/Debug/Class2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Functional+2DArr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Functional+2DArr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyColor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyColor/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyColor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyColor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../z01E/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z01E/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../z01E/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z01E/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../z01E/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z01E/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lekcja_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lekcja_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/out/production/z04/HailstoneIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/out/production/z04/HailstoneIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/out/production/z04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/out/production/z04/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,19 +22,23 @@
     <session id="-1565242056">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="81" />
+          <entry key="java" value="1758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="81" />
+          <entry key="JAVA" value="1758" />
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +48,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="258">
+              <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,15 +87,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554297380356" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554377337381" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lekcja_2.5" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,6 +121,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -144,42 +138,47 @@
       <option name="presentableId" value="Default" />
       <updated>1554297288442</updated>
       <workItem from="1554297292496" duration="714000" />
+      <workItem from="1554370285222" duration="4401000" />
+      <workItem from="1554711776514" duration="80000" />
+      <workItem from="1554898329075" duration="3631000" />
+      <workItem from="1555503415380" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="714000" />
+    <option name="totallyTimeSpent" value="8915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19109312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,8 +190,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="258">
+          <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

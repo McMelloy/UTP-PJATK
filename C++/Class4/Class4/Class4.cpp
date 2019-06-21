@@ -29,13 +29,13 @@ int main()
 	*px += 3;
 	cout << "x now: " << x << endl;
 	px = &y;
-	cout << "x now: " << *px << endl;
+	cout << "px now: " << *px << endl;
 	fun(x);
 	cout << x << endl;
 	fun2(&x);
 	cout << x << endl;
 
-	int size;
+	/*int size;
 	cout << "Type a size for the array: ";
 	std::cin >> size;
 
@@ -49,5 +49,8 @@ int main()
 	cout << *arr << endl;
 	
 
-	delete[] arr;
+	delete[] arr;*/
+	int arr[] = { 2, 5, 6 };
+	*arr = *(arr + 1)+2;
+	cout << arr[0] << endl;
 }

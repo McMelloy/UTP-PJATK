@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d17b44a-a1fa-490f-9e10-5e2400ec890c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../z06/z06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Class4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Class4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.pch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/Class4.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/Class4.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/Class4.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/pch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class4/Class4/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class5/.vs/Class5/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class5/.vs/Class5/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Class5/.vs/Class5/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Class5/.vs/Class5/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lekcja_2.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja_2.5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lekcja_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lekcja_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/out/production/z04/HailstoneIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/out/production/z04/HailstoneIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/out/production/z04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/out/production/z04/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z05/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z05/src/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1907937557">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="890" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="890" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyJFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyLayout1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="30" column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyColorPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/MyColorPanel.java" />
+        <option value="$PROJECT_DIR$/src/MyButton.java" />
+        <option value="$PROJECT_DIR$/src/MyLayout1.java" />
+        <option value="$PROJECT_DIR$/src/MyJFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="192" />
+    <option name="y" value="27" />
+    <option name="width" value="1401" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wyklad_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wyklad_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wyklad_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wyklad_4" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558531800191" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../z06" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyJFrame">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="wyklad_4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyJFrame" />
+      <module name="wyklad_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyJFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyJFrame" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d17b44a-a1fa-490f-9e10-5e2400ec890c" name="Default Changelist" comment="" />
+      <created>1554970704211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554970704211</updated>
+      <workItem from="1554970709615" duration="3103000" />
+      <workItem from="1555503416419" duration="23000" />
+      <workItem from="1557861050047" duration="695000" />
+      <workItem from="1558526831031" duration="2031000" />
+      <workItem from="1559131477314" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5991000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyLayout1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyColorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
