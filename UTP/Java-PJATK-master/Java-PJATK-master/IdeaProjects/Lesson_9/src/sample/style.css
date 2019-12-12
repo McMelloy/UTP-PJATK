@@ -1,0 +1,25 @@
+/* This is a comment in CSS */
+
+/* "For each Text element:" */
+Text, Label {
+    /* key: value; */
+    -fx-font: 25px Tahoma;   /* We are setting font Tahoma height 25px */
+    -fx-fill: rgb(20,20,20); /* We are changing color to dark but not black */
+    -fx-stroke: black;       /* Let a border be black */
+    -fx-stroke-width: 2;     /* A thickness of a border is 2px */
+}
+/* Dot before a name creates a class */
+.Approval {
+
+    -fx-background-color:
+            #000000,
+            linear-gradient(#7ebcea, #2f4b8f),
+            linear-gradient(#426ab7, #263e75),
+            linear-gradient(#395cab, #223768);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+
+}

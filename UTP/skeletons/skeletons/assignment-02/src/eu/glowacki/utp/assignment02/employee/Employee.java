@@ -9,20 +9,21 @@ public abstract class Employee extends Person {
 	// attributes:
 	// * salary (use BigDecimal type for representing currency values)
 	// * manager (empty if at top of hierarchy)
-	public BigDecimal salary;
-	public Person manager;
+	private BigDecimal salary;
+	Manager manager;
 	
-	protected Employee(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Person manager) {
+	protected Employee(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Manager manager) {
 		super(firstName, surname, birthDate);
 		this.salary = salary;
 		this.manager = manager;
+		if(manager!=null) this.manager.addSub(this);
 	}
 
 	public BigDecimal getSalary() {
 		return salary;
 	}
 
-	public Person getManager() {
+	public Manager getManager() {
 		return manager;
 	}
 

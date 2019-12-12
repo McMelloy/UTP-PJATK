@@ -12,15 +12,24 @@ import eu.glowacki.utp.assignment02.payroll.PayrollEntry;
 public final class HumanResourcesStatistics {
 
 	public static List<PayrollEntry> payroll(List<Employee> employees) {
-		List<PayrollEntry> res = new ArrayList<>();
-		employees.forEach(emp -> res.add(new PayrollEntry(emp, emp.getSalary(), emp.bonus())));
-		return res;
+		//List<PayrollEntry> res = new ArrayList<>();
+		//employees.forEach(emp -> res.add(new PayrollEntry(emp, emp.getSalary(), emp.bonus())));
+		//return res;
+		return employees
+				.stream()
+				.map(emp -> new PayrollEntry(emp, emp.getSalary(), emp.bonus()) )
+				.collect(Collectors.toList());
 	}
 
 	public static List<PayrollEntry> subordinatesPayroll(Manager manager) {
-		List<PayrollEntry> res = new ArrayList<>();
-		manager.getDirectSub().forEach(emp -> res.add(new PayrollEntry(emp, emp.getSalary(), emp.bonus())));
-		return res;
+		//List<PayrollEntry> res = new ArrayList<>();
+		//manager.getDirectSub().forEach(emp -> res.add(new PayrollEntry(emp, emp.getSalary(), emp.bonus())));
+		//return res;
+		return manager.getSub()
+				.stream()
+				.map(emp -> new PayrollEntry(emp, emp.getSalary(), emp.bonus()) )
+				.collect(Collectors.toList());
+
 	}
 
 	public static BigDecimal bonusTotal(List<Employee> employees) {
@@ -52,8 +61,7 @@ public final class HumanResourcesStatistics {
 	public static BigDecimal highestSalPlus(List<Employee> employees){
 		List<BigDecimal> salPlusBonus = employees
 				.stream()
-				.map(emp -> emp.getSalary()
-				.add(emp.bonus()))
+				.map(emp -> emp.getSalary().add(emp.bonus()))
 				.collect(Collectors.toList());
 		return salPlusBonus.stream().reduce(BigDecimal.ZERO,BigDecimal::max);
 	}
@@ -61,7 +69,7 @@ public final class HumanResourcesStatistics {
 	public static List<Employee> weirdQueryInvolvingA(Manager manager){
 		return manager.getAllSub()
 				.stream()
-				.filter(emp -> emp.getSurname().matches("A."))
+				.filter(emp -> emp.getSurname().startsWith("A"))
 				.collect(Collectors.toList());
 	}
 

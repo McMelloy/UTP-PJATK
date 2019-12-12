@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="50.0" prefWidth="240.0" stylesheets="@cell.css" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+   <HBox layoutX="20.0" layoutY="20.0" spacing="10.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+      <children>
+          <Button fx:id="btn" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#show" text="Show" />
+         <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" HBox.hgrow="ALWAYS">
+                <Text fx:id="text" strokeType="OUTSIDE" strokeWidth="0.0" text="?" textAlignment="JUSTIFY" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="4.0" />
+         </AnchorPane>
+      </children>
+   </HBox>
+</AnchorPane>

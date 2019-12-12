@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e6af19a-07c6-4a04-8eb6-75a8d2bd3946" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Trainee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="46" selection-start-column="46" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/HumanResourceStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assigment03/test/HumanResourceStatisticsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="40" column="97" selection-start-line="40" selection-start-column="97" selection-end-line="40" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>seniority</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Manager.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Person.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Trainee.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Worker.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Employee.java" />
+        <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assigment03/test/HumanResourceStatisticsTest.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/HumanResourceStatistics.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-03" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment-04" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HumanResourceStatisticsTest.seniorityBetweenTwoAndFourYearsAndAgeGreaterThan">
+    <configuration name="HumanResourceStatisticsTest.practiceLengthLongerThan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assigment03.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assigment03.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assigment03.test.HumanResourceStatisticsTest" />
+      <option name="METHOD_NAME" value="practiceLengthLongerThan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceStatisticsTest.seniorityBetweenOneAndThreeYears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assigment03.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assigment03.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assigment03.test.HumanResourceStatisticsTest" />
+      <option name="METHOD_NAME" value="seniorityBetweenOneAndThreeYears" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceStatisticsTest.seniorityBetweenTwoAndFourYearsAndAgeGreaterThan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assigment03.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assigment03.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assigment03.test.HumanResourceStatisticsTest" />
+      <option name="METHOD_NAME" value="seniorityBetweenTwoAndFourYearsAndAgeGreaterThan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceStatisticsTest.seniorityLongerThan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assigment03.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assigment03.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assigment03.test.HumanResourceStatisticsTest" />
+      <option name="METHOD_NAME" value="seniorityLongerThan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assigment03.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assigment03.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assigment03.test.HumanResourceStatisticsTest" />
+      <option name="METHOD_NAME" value="seniorityLongerThan2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HumanResourceStatisticsTest.seniorityBetweenTwoAndFourYearsAndAgeGreaterThan" />
+        <item itemvalue="JUnit.HumanResourceStatisticsTest.practiceLengthLongerThan" />
+        <item itemvalue="JUnit.HumanResourceStatisticsTest.seniorityLongerThan2" />
+        <item itemvalue="JUnit.HumanResourceStatisticsTest.seniorityBetweenOneAndThreeYears" />
+        <item itemvalue="JUnit.HumanResourceStatisticsTest.seniorityLongerThan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6af19a-07c6-4a04-8eb6-75a8d2bd3946" name="Default Changelist" comment="" />
+      <created>1571475201186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571475201186</updated>
+      <workItem from="1571475394124" duration="13989000" />
+      <workItem from="1571645953676" duration="2921000" />
+      <workItem from="1572071007887" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 25m 03s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 25m 16s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 27m 55s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 28m 08s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 29m 07s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 30m 58s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityLongerThan2 - 2019.10.19 at 14h 34m 28s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityLongerThan2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_practiceLengthLongerThan - 2019.10.21 at 10h 28m 10s.xml">
+      <configuration name="HumanResourceStatisticsTest.practiceLengthLongerThan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_practiceLengthLongerThan - 2019.10.21 at 11h 08m 16s.xml">
+      <configuration name="HumanResourceStatisticsTest.practiceLengthLongerThan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HumanResourceStatisticsTest_seniorityBetweenTwoAndFourYearsAndAgeGreaterThan - 2019.10.21 at 11h 11m 13s.xml">
+      <configuration name="HumanResourceStatisticsTest.seniorityBetweenTwoAndFourYearsAndAgeGreaterThan" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16990000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17718121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Trainee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/employee/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assigment03/test/HumanResourceStatisticsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="97" selection-start-line="40" selection-start-column="97" selection-end-line="40" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment03/HumanResourceStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

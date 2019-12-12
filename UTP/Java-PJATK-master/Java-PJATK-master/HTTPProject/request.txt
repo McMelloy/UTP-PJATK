@@ -1,0 +1,11 @@
+GET http://osxdaily.com/2010/11/21/find-ip-address-mac/ HTTP/1.1
+Host: osxdaily.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,ru;q=0.8
+Cookie: __utma=89797765.224608391.1573566746.1573566746.1573566746.1; __utmc=89797765; __utmz=89797765.1573566746.1.1.utmccn=(referral)|utmcsr=google.com|utmcct=/|utmcmd=referral; cookie_notice_accepted=true

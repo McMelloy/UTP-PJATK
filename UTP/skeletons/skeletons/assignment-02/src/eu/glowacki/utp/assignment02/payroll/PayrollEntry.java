@@ -13,6 +13,11 @@ public final class PayrollEntry {
 		_employee = employee;
 		if(salary!=null && bonus!=null)
 			_salaryPlusBonus = salary.add(bonus); // validate whether salary and bonus are not null
-		else _salaryPlusBonus = salary;
+		else if(salary!=null)_salaryPlusBonus = salary;
+		else _salaryPlusBonus=BigDecimal.ZERO;
+	}
+
+	public BigDecimal get_salaryPlusBonus() {
+		return _salaryPlusBonus;
 	}
 }

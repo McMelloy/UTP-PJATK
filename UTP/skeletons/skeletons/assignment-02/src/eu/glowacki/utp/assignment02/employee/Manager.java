@@ -2,28 +2,39 @@ package eu.glowacki.utp.assignment02.employee;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public final class Manager extends Worker {
 
 	// attributes
 	// * subordinates (a list of immediate subordinates)
 	// * all subordinates (a list of subordinates in all hierarchy)
-	List<Employee> directSub;
-	List<Employee> allSub;
+	private List<Employee> directSub;
 	
-	public Manager(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Person manager,
-				   LocalDate employDate, BigDecimal bonus, List<Employee> dir, List<Employee> all) {
+	public Manager(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Manager manager,
+				   LocalDate employDate, BigDecimal bonus) {
 		super(firstName, surname, birthDate, salary, manager, employDate, bonus);
-		directSub = dir;
-		allSub = all;
+		directSub = new ArrayList<>();
 	}
 
-	public List<Employee> getDirectSub() {
+	public List<Employee> getSub() {
 		return directSub;
 	}
 
 	public List<Employee> getAllSub() {
+		List<Employee> allSub = new ArrayList<>(directSub);
+		directSub
+				.stream()
+				.forEach(emp-> {
+					if (emp instanceof Manager)
+						allSub.addAll(((Manager) emp).getSub());
+				});
 		return allSub;
+	}
+
+	public void addSub(Employee sub){
+		directSub.add(sub);
 	}
 }

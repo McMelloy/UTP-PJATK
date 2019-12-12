@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2d85fc0-e711-44de-b56b-4be296c6fef3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java-PJATK-master/Java-PJATK-master/Assignment6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/assignment-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/BirthdateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/FirstNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/InputParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Nationality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/classesAndEnum/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/DepartmentExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/PersonExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/StudGroupExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/StudentExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/SubjectExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/extensions/TeacherExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/generators/GenDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/generators/GenNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/generators/GenPesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/generators/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/src/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task6/task6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/assignment-02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/assignment-02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/HumanResourcesStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/HumanResourcesStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Trainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Trainee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/employee/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/payroll/PayrollEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/src/eu/glowacki/utp/assignment02/payroll/PayrollEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-02/test/eu/glowacki/utp/assignment02/test/HumanResourcesStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-02/test/eu/glowacki/utp/assignment02/test/HumanResourcesStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/HumanResourceStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/HumanResourceStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Trainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Trainee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/src/eu/glowacki/utp/assignment03/employee/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-03/test/eu/glowacki/utp/assigment03/test/HumanResourceStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-03/test/eu/glowacki/utp/assigment03/test/HumanResourceStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/InputParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/InputParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/PersonDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/PersonDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/BirthdateComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/BirthdateComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/FirstNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/FirstNameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/InputParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/InputParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/PersonDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/PersonDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/PersonDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-08/src/eu/glowacki/utp/assignment08/PersonDatabase.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#971#972#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/FirstNameComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/BirthdateComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/InputParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/PersonDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#1694#1695#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/InputParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/PersonDatabaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/BirthdateComparator.java" />
+        <option value="$PROJECT_DIR$/in.txt" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/FirstNameComparator.java" />
+        <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/InputParserTest.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/PersonDatabase.java" />
+        <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/PersonDatabaseTest.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/InputParser.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/Person.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment04" type="462c0819:PsiDirectoryNode" />
+              <item name="comparators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-04" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment-08" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonDatabaseTest">
+    <configuration name="InputParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment04.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment04.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment04.test.InputParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment04.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment04.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment04.test.PersonDatabaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTest.bornOnDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment04.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment04.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment04.test.PersonDatabaseTest" />
+      <option name="METHOD_NAME" value="bornOnDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTest.sortedByFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment04.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment04.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment04.test.PersonDatabaseTest" />
+      <option name="METHOD_NAME" value="sortedByFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTest.sortedBySurnameFirstNameAndBirthdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.glowacki.utp.assignment04.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eu.glowacki.utp.assignment04.test" />
+      <option name="MAIN_CLASS_NAME" value="eu.glowacki.utp.assignment04.test.PersonDatabaseTest" />
+      <option name="METHOD_NAME" value="sortedBySurnameFirstNameAndBirthdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonDatabaseTest" />
+        <item itemvalue="JUnit.PersonDatabaseTest.sortedByFirstName" />
+        <item itemvalue="JUnit.PersonDatabaseTest.sortedBySurnameFirstNameAndBirthdate" />
+        <item itemvalue="JUnit.InputParserTest" />
+        <item itemvalue="JUnit.PersonDatabaseTest.bornOnDay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2d85fc0-e711-44de-b56b-4be296c6fef3" name="Default Changelist" comment="" />
+      <created>1572071112815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572071112815</updated>
+      <workItem from="1572071119639" duration="21522000" />
+      <workItem from="1575390181092" duration="1380000" />
+      <workItem from="1575806470861" duration="485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PersonDatabaseTest_sortedByBirthdate - 2019.10.28 at 10h 43m 02s.xml">
+      <configuration name="PersonDatabaseTest.sortedByBirthdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_sortedByBirthdate - 2019.10.28 at 10h 43m 22s.xml">
+      <configuration name="PersonDatabaseTest.sortedByBirthdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_sortedByBirthdate - 2019.10.28 at 10h 48m 21s.xml">
+      <configuration name="PersonDatabaseTest.sortedByBirthdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_sortedByBirthdate - 2019.10.28 at 10h 48m 49s.xml">
+      <configuration name="PersonDatabaseTest.sortedByBirthdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_bornOnDay - 2019.10.28 at 10h 49m 01s.xml">
+      <configuration name="PersonDatabaseTest.bornOnDay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputParserTest - 2019.10.28 at 10h 51m 55s.xml">
+      <configuration name="InputParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest - 2019.10.28 at 10h 52m 03s.xml">
+      <configuration name="PersonDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_sortedBySurnameFirstNameAndBirthdate - 2019.10.28 at 10h 52m 41s.xml">
+      <configuration name="PersonDatabaseTest.sortedBySurnameFirstNameAndBirthdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest_sortedByFirstName - 2019.10.28 at 10h 53m 05s.xml">
+      <configuration name="PersonDatabaseTest.sortedByFirstName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonDatabaseTest - 2019.10.28 at 11h 27m 44s.xml">
+      <configuration name="PersonDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23387000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/FirstNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/PersonDatabaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/comparators/BirthdateComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/InputParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment04/PersonDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment04/test/InputParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -9,10 +9,10 @@ public class Trainee extends Employee {
 	// attributes:
 	// * practice start date
 	// * practice length (in days)
-	LocalDate startDate;
-	int practiceLength;
+	private LocalDate startDate;
+	private int practiceLength;
 	
-	public Trainee(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Person manager,
+	public Trainee(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Manager manager,
 				   LocalDate startDate) {
 		super(firstName, surname, birthDate, salary, manager);
 		this.startDate = startDate;
@@ -22,7 +22,7 @@ public class Trainee extends Employee {
 
 	@Override
 	public BigDecimal bonus() {
-		return null;
+		return BigDecimal.ZERO;
 	}
 
 	@Override

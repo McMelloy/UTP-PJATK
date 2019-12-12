@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="anchor" prefHeight="900.0" prefWidth="1440.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GameController">
+   <children>
+      <Text layoutX="550.0" layoutY="30.0" opacity="0.8" strokeType="OUTSIDE" strokeWidth="0.0" text="timer" textAlignment="CENTER" wrappingWidth="76.1279296875">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Text fx:id="timer" layoutX="670.0" layoutY="31.0" opacity="0.78" strokeType="OUTSIDE" strokeWidth="0.0" text="0:0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Button contentDisplay="CENTER" layoutX="650.0" layoutY="820.0" mnemonicParsing="false" onAction="#loadNewFxml" opacity="0.5" prefHeight="51.0" prefWidth="150.0" text="back to menu" textAlignment="JUSTIFY" AnchorPane.bottomAnchor="60.0" AnchorPane.leftAnchor="30.0" />
+      <AnchorPane fx:id="an" layoutX="250.0" layoutY="140.0" prefHeight="568.0" prefWidth="964.0" />
+   </children>
+</AnchorPane>

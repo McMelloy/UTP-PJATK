@@ -10,10 +10,10 @@ public class Worker extends Employee {
 	// * employment date
 	// * bonus
 
-	BigDecimal bonus;
-	LocalDate employDate;
+	private BigDecimal bonus;
+	private LocalDate employDate;
 	
-	public Worker(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Person manager,
+	public Worker(String firstName, String surname, LocalDate birthDate, BigDecimal salary, Manager manager,
 				  LocalDate employDate, BigDecimal bonus) {
 		super(firstName, surname, birthDate, salary, manager);
 		this.employDate = employDate;
