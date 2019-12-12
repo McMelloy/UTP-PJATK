@@ -1,3 +1,0 @@
-﻿  Class6.cpp
-c:\uni\pjatk\c++\class6\class6\class6.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Class6.vcxproj -> C:\Uni\PJATK\C++\Class6\Debug\Class6.exe
