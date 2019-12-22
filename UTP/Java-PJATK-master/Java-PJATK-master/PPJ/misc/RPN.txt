@@ -1,1 +1,0 @@
-www.wrong but this https://a.bb is ok and this http://ccc.dd as well as https://a.bb again or www.xx.yy but not http://com
