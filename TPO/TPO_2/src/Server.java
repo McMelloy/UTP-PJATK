@@ -13,7 +13,7 @@ public class Server {
 
     public static void main(String[] args) throws IOException {
         String host = "localhost";
-        int port = 7777;
+        int port = 8080;
 
         ServerSocketChannel serverChannel = null;
         Selector selector = null;
@@ -48,9 +48,13 @@ public class Server {
 
                     String result = new String(buffer.array()).trim();
                     System.out.println("Message received: " + result);
+                    if(result.equals("exit"))
+                        System.exit(0);
 
-                    if(result.matches("[0-9]+\\+[0-9]+")){
+                    if(result.matches("[0-9]+ *\\+ *[0-9]+")){
                         String[] nums = result.split("\\+");
+                        for(int i = 0;i<nums.length;i++)
+                            nums[i] = nums[i].trim();
                         result = ""+(Integer.parseInt(nums[0])+Integer.parseInt(nums[1]));
                         byte[] out = result.getBytes();
                         buffer = ByteBuffer.wrap(out);

@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae83f2f3-6f04-457d-b03d-39f57b697091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TPO_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/src/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/src/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/src/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/src/Writer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPO_1/test" beforeDir="false" afterPath="$PROJECT_DIR$/../TPO_1/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPO_1/out/production/TPO/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPO_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TPO_1/status" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPO_2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TPO_2/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPO_2/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TPO_2/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="57" column="90" lean-forward="true" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Client.java" />
         <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
       </list>
     </option>
   </component>
@@ -106,7 +104,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TPO_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Server">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client" />
       <module name="TPO_2" />
@@ -165,24 +163,24 @@
       <workItem from="1583835299051" duration="599000" />
       <workItem from="1583928257066" duration="1977000" />
       <workItem from="1584309124563" duration="7277000" />
+      <workItem from="1584547911785" duration="3045000" />
+      <workItem from="1584608297901" duration="3218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9853000" />
+    <option name="totallyTimeSpent" value="16116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17651007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -195,6 +193,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="57" column="90" lean-forward="true" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
