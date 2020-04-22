@@ -14,7 +14,7 @@ public class User implements IUserRepository {
         String driverName = "com.mysql.cj.jdbc.Driver";//com.mysql.jdbc.Driver
         String url = "jdbc:mysql://localhost:3306/app10?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=CET";
         String user = "root";
-        String password = "Ramarb1138";
+        String password = "root";
 
 		try {
 			Class.forName(driverName);

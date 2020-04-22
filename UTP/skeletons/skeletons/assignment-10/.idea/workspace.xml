@@ -2,9 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f9f809-b905-418b-8ee6-b720495b8590" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../assignment_9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../assignment_9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/GroupRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/GroupRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/artifacts/web_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources/134923b4-6dbd-42f4-92b2-ca480bfd4f8b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources/134923b4-6dbd-42f4-92b2-ca480bfd4f8b/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources/134923b4-6dbd-42f4-92b2-ca480bfd4f8b/storage_v2/_src_/schema/S19136.uWJvkA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/dataSources/134923b4-6dbd-42f4-92b2-ca480bfd4f8b/storage_v2/_src_/schema/S19136.uWJvkA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/scopes/scope_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/TPO-5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/WEB-INF/classes/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/WEB-INF/classes/db.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/artifacts/web_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/production/TPO-5/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/out/production/TPO-5/db.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/src/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/src/db.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/web/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/web/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO-5 - fail/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/.idea/artifacts/TPO_3_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/TPO_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/out/artifacts/TPO_3_war_exploded/WEB-INF/classes/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/out/artifacts/TPO_3_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/out/artifacts/TPO_3_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/out/production/TPO_3/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/src/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TPO/TPO_3 — копия/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -28,11 +73,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/UserRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="391">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="153">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="-119">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1318#1319#0" expanded="true" />
@@ -146,11 +194,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/repositories/IRepository.java" />
-        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java" />
-        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java" />
         <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/GroupRepositoryTest.java" />
         <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/UserRepositoryTest.java" />
         <option value="$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/RepositoryTestBase.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java" />
+        <option value="$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java" />
       </list>
     </option>
   </component>
@@ -168,8 +216,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="311" />
-    <option name="y" value="37" />
+    <option name="x" value="115" />
+    <option name="y" value="55" />
     <option name="width" value="1615" />
     <option name="height" value="880" />
   </component>
@@ -179,8 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,9 +290,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../My-Projects/sqlserverconnection" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -363,16 +412,11 @@
       <workItem from="1578663906666" duration="24676000" />
       <workItem from="1578902961196" duration="3725000" />
       <workItem from="1583751859834" duration="180000" />
+      <workItem from="1586766793022" duration="1292000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupRepositoryTest_update - 2020.01.13 at 10h 38m 53s.xml">
-      <configuration name="GroupRepositoryTest.update" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GroupRepositoryTest - 2020.01.13 at 10h 41m 26s.xml">
-      <configuration name="GroupRepositoryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GroupRepositoryTest_add - 2020.01.13 at 10h 42m 02s.xml">
       <configuration name="GroupRepositoryTest.add" configurationId="JUnit" />
     </history-entry>
@@ -397,19 +441,26 @@
     <history-entry file="eu_glowacki_utp_assignment10_repositories_test_in_assignment-10 - 2020.01.13 at 10h 55m 54s.xml">
       <configuration name="eu.glowacki.utp.assignment10.repositories.test in assignment-10" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="eu_glowacki_utp_assignment10_repositories_test_in_assignment-10 - 2020.04.13 at 10h 42m 50s.xml">
+      <configuration name="eu.glowacki.utp.assignment10.repositories.test in assignment-10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="eu_glowacki_utp_assignment10_repositories_test_in_assignment-10 - 2020.04.13 at 10h 43m 06s.xml">
+      <configuration name="eu.glowacki.utp.assignment10.repositories.test in assignment-10" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28581000" />
+    <option name="totallyTimeSpent" value="29873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31006712" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -453,24 +504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/repositories/IGroupRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/RepositoryTestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/GroupRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="131" column="30" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -491,28 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1318#1319#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/dtos/DTOBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -529,8 +544,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/UserRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="391">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/repositories/IGroupRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eu/glowacki/utp/assignment10/repositories/test/GroupRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="131" column="30" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/glowacki/utp/assignment10/classes/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

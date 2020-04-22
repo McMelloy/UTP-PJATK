@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context crossContext="true">
+
+	<Resource
+			name="jdbc/task5"
+			auth="Container"
+			type="javax.sql.DataSource"
+			maxActive="100"
+			maxIdle="30"
+			maxWait="10000"
+			driverClassName="com.mysql.cj.jdbc.Driver"
+			url="jdbc:mysql://localhost:3306/tpo-5?serverTimezone=CET"
+			username="root"
+			password="root"
+	/>
+</Context>

@@ -19,7 +19,7 @@
             String res = String.valueOf(request.getAttribute("res"));
     %>
 
-    <div><%= a%> + <%= b%> = <%= res%></div>
+    <div><%= String.valueOf(request.getAttribute("a"))%> + <%= b%> = <%= res%></div>
 
     <%
     } else {
